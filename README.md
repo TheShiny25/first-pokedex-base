@@ -1,1 +1,1 @@
-# first-pokedex-base
+# Pokedex Base - Simple
